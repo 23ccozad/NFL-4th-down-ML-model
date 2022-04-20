@@ -7,7 +7,7 @@ This repo contains the data and Jupyter notebooks used to create a machine learn
 
 <b>ML Models</b>: Seven different machine learning algorithms were considered, shown in `data_processing_and_ml_models.ipynb`. We found the highest accuracy when using XGBoost, an algorithm based on a gradient boosted ensemble of decision trees.
 
-<b>87% Accuracy</b>: Our tuned XGBoost model chooses the best play to run on 4th down 87% of the time.
+<b>87% Accuracy</b>: Our final XGBoost model chooses the best play to run on 4th down 87% of the time.
 
 ## Install and Run the Project
 The steps will allow you to run `data_processing_and_ml_models.ipynb`, which processes, trains, and tests a machine learning model on the data found in the `data` directory.
