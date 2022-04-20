@@ -5,6 +5,8 @@ This repo contains the data and Jupyter notebooks used to create a machine learn
 
 <b>Data Sources</b>: Every NFL play run between the 2003 and 2021 seasons was scraped using BeautifulSoup4 in Python. Scraped data was saved into the CSV files found in `/data`. Code is provied in `data_scraping.ipynb`.
 
+<b>Data Preprocessing and Features</b>: Data is transformed in `data_processing_and_ml_models.ipynb`, and variables are prepared for use in the machine learning model. Variables such as the number of yards to first down, number of yards to the endzone, minutes remaining in the game, the score of the game, and home team advantage are used to determine the play that should be run: punt, kick a field goal, or "go for it".
+
 <b>ML Models</b>: Seven different machine learning algorithms were considered, shown in `data_processing_and_ml_models.ipynb`. We found the highest accuracy when using XGBoost, an algorithm based on a gradient boosted ensemble of decision trees.
 
 <b>87% Accuracy</b>: Our final XGBoost model chooses the best play to run on 4th down 87% of the time.
