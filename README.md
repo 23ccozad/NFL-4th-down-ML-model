@@ -13,7 +13,7 @@ This repo contains the data and Jupyter notebooks used to create a machine learn
 
 ## Install and Run the Project
 
-The bulk of this project can be viewed in `[data_processing_and_ml_models.ipynb](https://github.com/23ccozad/nfl-4th-down-ml-model/blob/main/data_processing_and_ml_models.ipynb)`, but you can use the following instructions to install and run this project yourself.
+The bulk of this project can be viewed in [`data_processing_and_ml_models.ipynb`](https://github.com/23ccozad/nfl-4th-down-ml-model/blob/main/data_processing_and_ml_models.ipynb), but you can use the following instructions to install and run this project yourself.
 
 The steps will allow you to run `data_processing_and_ml_models.ipynb`, which processes, trains, and tests a machine learning model on the data found in the `data` directory.
 
