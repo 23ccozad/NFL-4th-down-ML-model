@@ -12,6 +12,9 @@ This repo contains the data and Jupyter notebooks used to create a machine learn
 <b>87% Accuracy</b>: Our final XGBoost model chooses the best play to run on 4th down 87% of the time.
 
 ## Install and Run the Project
+
+The bulk of the project can be viewed in [data_processing_and_ml_models.ipynb](https://github.com/23ccozad/nfl-4th-down-ml-model/blob/main/data_processing_and_ml_models.ipynb).
+
 The steps will allow you to run `data_processing_and_ml_models.ipynb`, which processes, trains, and tests a machine learning model on the data found in the `data` directory.
 
 1. Download the `data` directory and `data_processing_and_ml_models.ipynb` into the same location on your computer.
