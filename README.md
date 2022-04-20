@@ -22,4 +22,4 @@ These steps will allow you to run `data_processing_and_ml_models.ipynb`, which p
 3. Use jupyter in this Python environment to open `data_processing_and_ml_models.ipynb`.
 4. Run all cells in the notebook, and watch as the data is processed and machine models are trained and tested.
 
-You may have noticed that these instructions don't include `data_scraping.ipynb`. This Juypter notebook was used retrieve and store the data found in the `data` directory in this repo. Feel free to use this notebook if you're interested in scraping data yourself. Otherwise, it is easier to use the CSV files we've provided in `/data`
+You may have noticed that these instructions don't include `data_scraping.ipynb`. This Juypter notebook was used retrieve and store the data found in the `data` directory in this repo. Feel free to use this notebook if you're interested in scraping data yourself. Otherwise, it is easier to use the CSV files we've provided in `/data`.
