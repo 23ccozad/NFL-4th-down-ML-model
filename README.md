@@ -1,6 +1,6 @@
 # NFL 4th Down Decision Machine Learning Model
 
-Connor Cozad and Maddie Carrino
+Developed by Connor Cozad and Maddie Carrino
 
 This repo contains the data and Jupyter notebooks used to create a machine learning model that can decide whether an NFL team should punt, kick a field goal, or "go for it" on 4th down. This served as the final project in CSCI 334: Data Mining for Dr. Navid Hashemi, Department of Computer Science, College of Charleston.
 
